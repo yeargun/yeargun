@@ -17,9 +17,11 @@
 
 </div>
 
+<!--
 <h3 align="center" style="color: black;">
  I'm an ML/NLP engineer with fullstack web developer capabilities. 
 </h3>
+-->
 
 <!-- <div align="center">
   Current Role: Bootstrapping stuf24.com <img width="14" height="14" src="https://media.licdn.com/dms/image/D4D0BAQHOyJg77s1_Ug/company-logo_200_200/0/1688633868217?e=1723680000&v=beta&t=RgGd8iKJY3TH2NwNwz8_uKw1wUETRggsk3Am9Edw81w" />
