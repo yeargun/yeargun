@@ -8,14 +8,13 @@
   </a>
 
 
+
+
+
   <a href="https://twitter.com/yeargun24">
     <img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 
-</div>
-
-<div id="counter" align="center">
- <img src="https://komarev.com/ghpvc/?username=yeargun&style=flat-square&color=blue" alt=""/>
 </div>
 
 
@@ -27,9 +26,9 @@
 <div align="center">
  I'm an ML/NLP engineer with fullstack web developer capabilities. 
 </div>
-<div align="center">
-  Current Role: Bootstrapping stuf24.com <img width="20" height="20" src="https://media.licdn.com/dms/image/D4D0BAQHOyJg77s1_Ug/company-logo_200_200/0/1688633868217?e=1723680000&v=beta&t=RgGd8iKJY3TH2NwNwz8_uKw1wUETRggsk3Am9Edw81w" />
-</div>
+<!-- <div align="center">
+  Current Role: Bootstrapping stuf24.com <img width="14" height="14" src="https://media.licdn.com/dms/image/D4D0BAQHOyJg77s1_Ug/company-logo_200_200/0/1688633868217?e=1723680000&v=beta&t=RgGd8iKJY3TH2NwNwz8_uKw1wUETRggsk3Am9Edw81w" />
+</div> -->
 
 
 ---
@@ -90,13 +89,7 @@ I’m building an online learning platform with the state-of-art LLM and web scr
 ![Linkedin Badge](https://img.shields.io/badge/AWS%20EC2-000000?style=flat&color=grey)
 
 
-<!-- 
----
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<a href="https://github.com/yeargun/">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeargun&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark" width="375"  alt="yeargun xd"/>
-
-</a>
--->
+<div id="counter" align="center">
+ <img src="https://komarev.com/ghpvc/?username=yeargun&style=flat-square&color=blue" alt=""/>
+</div>
