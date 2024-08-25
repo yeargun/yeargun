@@ -61,7 +61,7 @@ I’m building an online learning platform with the state-of-art LLM and web scr
 ![Linkedin Badge](https://img.shields.io/badge/llama-index-000000?style=flat&color=grey)
 ![Linkedin Badge](https://img.shields.io/badge/Pytorch-000000?style=flat&color=grey)
 ![Linkedin Badge](https://img.shields.io/badge/AWS%20SageMaker-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/nupmy-000000?style=flat&color=grey)
+![Linkedin Badge](https://img.shields.io/badge/numpy-000000?style=flat&color=grey)
 ![Linkedin Badge](https://img.shields.io/badge/sklearn-000000?style=flat&color=grey)
 ![Linkedin Badge](https://img.shields.io/badge/RAG-000000?style=flat&color=grey)
 
