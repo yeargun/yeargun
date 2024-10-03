@@ -53,17 +53,7 @@ I’m building an online learning platform with the state-of-art LLM and web scr
 ![Linkedin Badge](https://img.shields.io/badge/SOLID-000000?style=flat&color=grey)
 
 #### Machine Learning
-![Linkedin Badge](https://img.shields.io/badge/Python-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/Milvus%20DB-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/Llama3-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/Langchain-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/ANNOY-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/llama-index-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/Pytorch-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/AWS%20SageMaker-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/numpy-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/sklearn-000000?style=flat&color=grey)
-![Linkedin Badge](https://img.shields.io/badge/RAG-000000?style=flat&color=grey)
+:
 
 #### Frontend
 ![Linkedin Badge](https://img.shields.io/badge/Next.js-000000?style=flat&color=grey)
