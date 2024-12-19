@@ -29,7 +29,7 @@
 
 ## What do I currently do:
 
-I’m building an online learning platform with the state-of-art LLM and web scraping technologies @ <a href="https://stuf24.com">stuf24.com </a>
+I’m building an online learning platform with the state-of-the-art LLM and web scraping technologies @ <a href="https://stuf24.com">stuf24.com </a>
 
   
 ### :mailbox: Contact 
