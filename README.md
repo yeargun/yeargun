@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/badge/personal%20website%20-8A2BE2?color=white&style=for-the-badge" alt="personal-website" />
   </a>
 
-
+  <a href="https://learny.academy/about">
+    <img src="https://cdn.learny.academy/download-learny-hq.webp" alt="Learny" />
+  </a>
 
 
 
